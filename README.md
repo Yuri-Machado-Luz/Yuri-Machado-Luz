@@ -104,15 +104,34 @@ Não apenas escrevo código — projeto arquiteturas escaláveis, otimizo proces
 Desenvolvimento de aplicações web, automações end-to-end e consultoria técnica. Experiência com clientes de diversos setores (estética, saúde, corporativo).
 
 **Serviços:**
+
 - Desenvolvimento Full-Stack (React, Node.js, Python)
 - Automações e Integrações de Sistemas
 - Soluções SaaS e Gestão de Dados
-- Design de Identidade Visual e UX/UI
-- Redação Técnica e Documentação
 
-**Stack:** React • Node.js • Python • FastAPI • Power Automate • Figma
+**Stack:** React • Node.js • Python • FastAPI • Power Automate
 
 </td>
+<td width="50%">
+
+### Designer & Redator Autônomo — Soluções Criativas
+
+**Jan 2020 - Atual**
+
+Projetos de identidade visual, design UX/UI e redação técnica especializada. Atendimento a clínicas, empresas e projetos acadêmicos.
+
+**Serviços:**
+
+- Design de Identidade Visual e Branding
+- UX/UI Design e Prototipagem
+- Redação Técnica e Acadêmica (ABNT)
+- Materiais Institucionais e Marketing
+
+**Stack:** Figma • Adobe Suite • Illustrator • Photoshop • InDesign
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### IBM — Assistente Administrativo Pleno
@@ -124,8 +143,6 @@ Redesign de processos end-to-end de onboarding e integração de colaboradores. 
 **Stack:** Python • Power Automate • SAP • ServiceNow • BPMN
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### Cielo — Analista de Backoffice
@@ -137,6 +154,8 @@ Automação de triagem de demandas e processamento de recebíveis com conformida
 **Stack:** Power Automate • VBA • Excel • Jira
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### Santander — Analista de Suporte Técnico
@@ -146,6 +165,9 @@ Automação de triagem de demandas e processamento de recebíveis com conformida
 Suporte N2, manutenção de bases críticas e aplicação de protocolos de segurança da informação em ambiente bancário.
 
 **Stack:** ServiceNow • Active Directory • SQL
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
