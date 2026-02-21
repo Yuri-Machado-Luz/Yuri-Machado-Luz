@@ -163,30 +163,17 @@ I also bring 8 semesters of Psychology into the way I approach systems — under
 
 🎓 **Systems Analysis & Development** — UNICID *(2023 – 2027)*
 🧠 **Psychology** *(8 semesters)* — UNINOVE *(2018 – 2022)*
-
 <br>
 
 ---
 
+
+<br>
+
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yuri-Machado-Luz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuri-Machado-Luz&show_icons=true&theme=default&hide_border=true&include_all_commits=true" width="49%" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Machado-Luz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Machado-Luz&layout=compact&theme=default&hide_border=true" width="40%" />
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Yuri-Machado-Luz&theme=tokyonight&hide_border=true&background=0d1117" />
-  <img src="https://streak-stats.demolab.com/?user=Yuri-Machado-Luz&theme=default&hide_border=true" width="55%" />
-</picture>
-
+  <a href="https://github.com/Yuri-Machado-Luz">
+    <img src="https://streak-stats.demolab.com/?user=Yuri-Machado-Luz&theme=tokyonight&hide_border=true&background=0d1117" width="55%" />
+  </a>
 </div>
 
 <br>
@@ -197,10 +184,9 @@ I also bring 8 semesters of Psychology into the way I approach systems — under
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yuri-Machado-Luz&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuri-Machado-Luz&theme=minimal&hide_border=true&area=true" width="95%" />
-  </picture>
+  <a href="https://github.com/Yuri-Machado-Luz">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuri-Machado-Luz&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="95%" />
+  </a>
 </div>
 
 </details>
