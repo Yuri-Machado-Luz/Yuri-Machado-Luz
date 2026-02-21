@@ -1,319 +1,372 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a73e8&height=220&section=header&text=Yuri%20Machado%20Luz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Data-Driven%20Consultant&descSize=18&descAlignY=55&descColor=8b949e" width="100%" />
+
 <div align="center">
 
-# Yuri Machado Luz
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+web+applications;Data-driven+consulting+%26+automation;Designing+systems+that+scale&font=Fira+Code&center=true&width=480&height=45&color=1a73e8&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+</a>
 
-### Full-Stack Developer • Process Architect • Problem Solver
+<br>
 
-<div>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0040?style=for-the-badge&logo=safari&logoColor=white)](https://yuri-machado-luz.github.io/portfolio-project/)
+[![Portfolio](https://img.shields.io/badge/yurimachado.dev.br-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yurimachado.dev.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yurimachadoluz0311)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurimachadoluz@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurimachadoluz@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511949359394)
+
+<br>
+
+<sup>🇧🇷 <a href="#-versão-em-português">Clique aqui para a versão em Português</a></sup>
 
 </div>
 
 <br>
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Código que funciona. Design que comunica. Processos que escalam.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+## About
 
-</div>
+I'm a full-stack developer who builds web applications end-to-end — from frontend interfaces in **React** and **TypeScript** to backend services in **Node.js** and **Python**. Beyond code, I help businesses make better decisions through data-driven consulting, process automation, and operational diagnostics.
 
-## ⚡ Sobre
+My background includes enterprise systems at **IBM** (where I redesigned an onboarding pipeline, cutting cycle time by 57%), cross-department automation at **Cielo**, and ongoing freelance work spanning full-stack apps, automation systems, and brand identity for clients in healthcare and corporate sectors.
 
-Desenvolvedor full-stack com background híbrido em **Tecnologia** + **Psicologia** + **Design**. Construo soluções que são tecnicamente robustas e humanamente intuitivas.
+I also bring 8 semesters of Psychology into the way I approach systems — understanding how people actually interact with software matters just as much as the architecture behind it.
 
-Não apenas escrevo código — projeto arquiteturas escaláveis, otimizo processos end-to-end e traduzo complexidade técnica em experiências fluidas.
+<br>
 
-**Do conceito ao deploy. Da estratégia à execução.**
-
-<div align="center">
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
-<tr>
-<td align="center" width="25%">
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-### Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-### Automation & Enterprise
-
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="140"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,tailwind,sass" height="36" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,express" height="36" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Automation</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=selenium" height="36" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Python_Scripts-3776AB?style=flat-square&logo=python&logoColor=white" height="22" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Data & Infra</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,docker" height="36" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" height="22" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Design</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma" height="36" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white" height="22" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Methods</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/BPMN-FF6600?style=flat-square" height="22" />
+      <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Lean-A100FF?style=flat-square" height="22" />
+      <img src="https://img.shields.io/badge/PDCA-2496ED?style=flat-square" height="22" />
+      <img src="https://img.shields.io/badge/RICE-FF4785?style=flat-square" height="22" />
+      <img src="https://img.shields.io/badge/PERT-34A853?style=flat-square" height="22" />
+    </td>
+  </tr>
 </table>
 
-**Metodologias:** Scrum • Kanban • BPMN • Lean • Six Sigma • PDCA • CI/CD • OKRs
+<br>
 
-</div>
-
-## 💼 Experiência
+## Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### Desenvolvedor Autônomo — Full-Stack Solutions
-
-**Jan 2020 - Atual**
-
-Desenvolvimento de aplicações web, automações end-to-end e consultoria técnica. Experiência com clientes de diversos setores (estética, saúde, corporativo).
-
-**Serviços:**
-
-- Desenvolvimento Full-Stack (React, Node.js, Python)
-- Automações e Integrações de Sistemas
-- Soluções SaaS e Gestão de Dados
-
-**Stack:** React • Node.js • Python • FastAPI • Power Automate
-
-</td>
-<td width="50%">
-
-### Designer & Redator Autônomo — Soluções Criativas
-
-**Jan 2020 - Atual**
-
-Projetos de identidade visual, design UX/UI e redação técnica especializada. Atendimento a clínicas, empresas e projetos acadêmicos.
-
-**Serviços:**
-
-- Design de Identidade Visual e Branding
-- UX/UI Design e Prototipagem
-- Redação Técnica e Acadêmica (ABNT)
-- Materiais Institucionais e Marketing
-
-**Stack:** Figma • Adobe Suite • Illustrator • Photoshop • InDesign
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### IBM — Assistente Administrativo Pleno
-
-**Dez 2024 - Abr 2025**
-
-Redesign de processos end-to-end de onboarding e integração de colaboradores. Redução de 57% no tempo (de 7 para 3 dias) processando 1.200+ fluxos/mês.
-
-**Stack:** Python • Power Automate • SAP • ServiceNow • BPMN
-
-</td>
-<td width="50%">
-
-### Cielo — Analista de Backoffice
-
-**Jul 2021 - Abr 2022**
-
-Automação de triagem de demandas e processamento de recebíveis com conformidade regulatória. Interface entre Ouvidoria, Jurídico e Operações.
-
-**Stack:** Power Automate • VBA • Excel • Jira
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Santander — Analista de Suporte Técnico
-
-**Mai 2020 - Fev 2021**
-
-Suporte N2, manutenção de bases críticas e aplicação de protocolos de segurança da informação em ambiente bancário.
-
-**Stack:** ServiceNow • Active Directory • SQL
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://yurimachado.dev.br">yurimachado.dev.br</a></h3>
+      <sub><code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>Vercel</code></sub>
+      <br><br>
+      My personal site — a multi-project platform where each URL path maps to an individual repository, showcasing different stacks and architectures. Under active development.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/Yuri-Machado-Luz/resource-library">Resource Library</a></h3>
+      <sub><code>TypeScript</code> <code>React</code> <code>CSS</code></sub>
+      <br><br>
+      Reusable component library built with TypeScript. A personal toolkit for accelerating frontend development across projects.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Onboarding Pipeline <sup><em>IBM · in production</em></sup></h3>
+      <sub><code>Python</code> <code>Power Automate</code> <code>BPMN</code> <code>ServiceNow</code></sub>
+      <br><br>
+      End-to-end employee integration system. Redesigned the complete onboarding flow, reducing cycle time from 7 to 3 days (<strong>57% reduction</strong>) while processing 1,200+ workflows/month.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Operations Consulting <sup><em>Healthcare</em></sup></h3>
+      <sub><code>Process Design</code> <code>WhatsApp API</code> <code>BPMN</code> <code>Automation</code></sub>
+      <br><br>
+      Diagnostic-to-implementation consulting. Mapped operational inefficiencies costing tens of thousands annually, designed triage automation, and built a data-driven roadmap.
+    </td>
+  </tr>
 </table>
 
-<div align="center">
+<br>
 
-## 🚀 Projetos
+## Experience
 
 <table>
-<tr>
-<td width="50%" align="center">
-
-### Portfolio Interativo
-
-React 19 • Tailwind CSS 4 • Vite • Framer Motion
-
-Portfólio moderno com animações fluidas, design system customizado e arquitetura component-driven.
-
-[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-FF0040?style=for-the-badge&logo=vercel&logoColor=white)](https://yuri-machado-luz.github.io/portfolio-project/)
-[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuri-Machado-Luz/portfolio-project)
-
-</td>
-<td width="50%" align="center">
-
-### Pipeline de Onboarding (IBM)
-
-Python • Power Automate • BPMN • ServiceNow
-
-Sistema end-to-end de integração de colaboradores. Processamento automatizado de documentação e aprovações.
-
-![Status](https://img.shields.io/badge/Status-Produção-00C853?style=for-the-badge)
-
-</td>
-</tr>
+  <tr>
+    <td><strong>IBM</strong></td>
+    <td>Administrative Analyst</td>
+    <td><code>Dec 2024 – Apr 2025</code></td>
+    <td>Onboarding redesign · 57% time reduction · Python + Power Automate + SAP</td>
+  </tr>
+  <tr>
+    <td><strong>Cielo</strong></td>
+    <td>Back Office Analyst</td>
+    <td><code>Jul 2021 – Apr 2022</code></td>
+    <td>Demand triage automation · Cross-department coordination (Legal, Ombudsman, Ops)</td>
+  </tr>
+  <tr>
+    <td><strong>Santander</strong></td>
+    <td>Technical Support Analyst</td>
+    <td><code>May 2020 – Feb 2021</code></td>
+    <td>N2 support · Critical database maintenance · Infosec protocols</td>
+  </tr>
+  <tr>
+    <td><strong>Freelance</strong></td>
+    <td>Developer, Designer & Consultant</td>
+    <td><code>Jan 2020 – Present</code></td>
+    <td>Full-stack apps · End-to-end automation · Brand identity · Process optimization</td>
+  </tr>
 </table>
 
-</div>
+<br>
 
-<div align="center">
+## Education
 
-## 🎓 Formação
+🎓 **Systems Analysis & Development** — UNICID *(2023 – 2027)*
+🧠 **Psychology** *(8 semesters)* — UNINOVE *(2018 – 2022)*
 
-<table>
-<tr>
-<td width="50%">
-
-**Análise e Desenvolvimento de Sistemas**
-
-Universidade Cidade de São Paulo (UNICID)
-
-`2023 - 2027 (em andamento)`
-
-</td>
-<td width="50%">
-
-**Psicologia** — 8º semestre concluído
-
-Universidade Nove de Julho (UNINOVE)
-
-`2018 - 2022`
-
-Background aplicado em UX, comunicação e comportamento do usuário
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-## 🌟 O Diferencial
-
-```python
-def solve_complex_problem(challenge):
-    """
-    Tecnologia + Psicologia + Design + Processos
-
-    1. Entendo o contexto técnico (dev)
-    2. Analiso o comportamento do usuário (psicologia)
-    3. Projeto a experiência (design)
-    4. Otimizo a execução (processos)
-    5. Entrego valor mensurável (resultados)
-    """
-    return technical_skill + user_empathy + design_thinking + process_optimization
-```
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-**Centrado no Usuário**
-
-Não construo features. Resolvo problemas reais.
-
-</td>
-<td width="25%" align="center">
-
-**Comunicação Efetiva**
-
-Traduzo requisitos em arquitetura executável.
-
-</td>
-<td width="25%" align="center">
-
-**Visão de Processos**
-
-Identifico gargalos e projeto soluções escaláveis.
-
-</td>
-<td width="25%" align="center">
-
-**Ownership End-to-End**
-
-Da concepção ao deploy, assumo responsabilidade completa.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuri-Machado-Luz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0040&icon_color=00ff88&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Machado-Luz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0040&text_color=c9d1d9)
-
-</div>
-
-## 📬 Vamos Construir Algo Juntos?
-
-Estou aberto a oportunidades como **Desenvolvedor Full-Stack**, **Analista de Sistemas**, **Product Owner** ou **Engenheiro de Processos**.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Ver_Portfolio-FF0040?style=for-the-badge)](https://yuri-machado-luz.github.io/portfolio-project/)
-[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yurimachadoluz0311)
-[![Email](https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurimachadoluz@hotmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511949359394)
+<br>
 
 ---
 
-**💡 "Transformando ideias em ideais."**
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yuri-Machado-Luz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuri-Machado-Luz&show_icons=true&theme=default&hide_border=true&include_all_commits=true" width="49%" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Machado-Luz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Machado-Luz&layout=compact&theme=default&hide_border=true" width="40%" />
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Yuri-Machado-Luz&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com/?user=Yuri-Machado-Luz&theme=default&hide_border=true" width="55%" />
+</picture>
 
 </div>
+
+<br>
+
+<details>
+<summary>📊 <strong>Activity Graph</strong></summary>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yuri-Machado-Luz&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuri-Machado-Luz&theme=minimal&hide_border=true&area=true" width="95%" />
+  </picture>
+</div>
+
+</details>
+
+---
+
+<details>
+<summary>🇧🇷 <strong>Versão em Português</strong></summary>
+
+<br>
+
+## Sobre
+
+Sou desenvolvedor full-stack — construo aplicações web de ponta a ponta, do frontend em **React** e **TypeScript** ao backend em **Node.js** e **Python**. Além do código, ajudo empresas a tomar decisões melhores através de consultoria baseada em dados, automação de processos e diagnósticos operacionais.
+
+Minha experiência inclui sistemas corporativos na **IBM** (onde redesenhei um pipeline de onboarding, reduzindo o ciclo em 57%), automação entre departamentos na **Cielo**, e trabalho freelance contínuo em aplicações full-stack, sistemas de automação e identidade visual para clientes nas áreas de saúde e corporativo.
+
+Trago também 8 semestres de Psicologia para a forma como abordo sistemas — entender como as pessoas realmente interagem com software importa tanto quanto a arquitetura por trás dele.
+
+<br>
+
+## Stack Técnica
+
+<table>
+  <tr>
+    <td align="center" width="140"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,tailwind,sass" height="36" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,express" height="36" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Automação</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=selenium" height="36" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Python_Scripts-3776AB?style=flat-square&logo=python&logoColor=white" height="22" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Dados & Infra</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,docker" height="36" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" height="22" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Design</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma" height="36" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white" height="22" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Métodos</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/BPMN-FF6600?style=flat-square" height="22" />
+      <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Lean-A100FF?style=flat-square" height="22" />
+      <img src="https://img.shields.io/badge/PDCA-2496ED?style=flat-square" height="22" />
+      <img src="https://img.shields.io/badge/RICE-FF4785?style=flat-square" height="22" />
+      <img src="https://img.shields.io/badge/PERT-34A853?style=flat-square" height="22" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://yurimachado.dev.br">yurimachado.dev.br</a></h3>
+      <sub><code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>Vercel</code></sub>
+      <br><br>
+      Meu site pessoal — uma plataforma multi-projeto onde cada path de URL mapeia para um repositório individual, demonstrando diferentes stacks e arquiteturas. Em desenvolvimento ativo.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/Yuri-Machado-Luz/resource-library">Resource Library</a></h3>
+      <sub><code>TypeScript</code> <code>React</code> <code>CSS</code></sub>
+      <br><br>
+      Biblioteca de componentes reutilizáveis em TypeScript. Toolkit pessoal para acelerar o desenvolvimento frontend entre projetos.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Pipeline de Onboarding <sup><em>IBM · em produção</em></sup></h3>
+      <sub><code>Python</code> <code>Power Automate</code> <code>BPMN</code> <code>ServiceNow</code></sub>
+      <br><br>
+      Sistema end-to-end de integração de colaboradores. Redesenho completo do fluxo, reduzindo ciclo de 7 para 3 dias (<strong>redução de 57%</strong>) com 1.200+ fluxos/mês.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Consultoria Operacional <sup><em>Saúde</em></sup></h3>
+      <sub><code>Process Design</code> <code>WhatsApp API</code> <code>BPMN</code> <code>Automação</code></sub>
+      <br><br>
+      Consultoria do diagnóstico à implementação. Mapeamento de ineficiências operacionais com custo de dezenas de milhares anuais, automação de triagem e roadmap data-driven.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Experiência
+
+<table>
+  <tr>
+    <td><strong>IBM</strong></td>
+    <td>Assistente Administrativo Pleno</td>
+    <td><code>Dez 2024 – Abr 2025</code></td>
+    <td>Redesign de onboarding · Redução de 57% · Python + Power Automate + SAP</td>
+  </tr>
+  <tr>
+    <td><strong>Cielo</strong></td>
+    <td>Analista de Backoffice</td>
+    <td><code>Jul 2021 – Abr 2022</code></td>
+    <td>Automação de triagem · Interface Ouvidoria/Jurídico/Operações</td>
+  </tr>
+  <tr>
+    <td><strong>Santander</strong></td>
+    <td>Analista de Suporte Técnico</td>
+    <td><code>Mai 2020 – Fev 2021</code></td>
+    <td>Suporte N2 · Bases críticas · Protocolos de segurança da informação</td>
+  </tr>
+  <tr>
+    <td><strong>Freelancer</strong></td>
+    <td>Desenvolvedor, Designer e Consultor</td>
+    <td><code>Jan 2020 – Atual</code></td>
+    <td>Apps full-stack · Automação end-to-end · Identidade visual · Otimização de processos</td>
+  </tr>
+</table>
+
+<br>
+
+## Formação
+
+🎓 **Análise e Desenvolvimento de Sistemas** — UNICID *(2023 – 2027)*
+🧠 **Psicologia** *(8º semestre)* — UNINOVE *(2018 – 2022)*
+
+<br>
+
+*Aberto a oportunidades em desenvolvimento full-stack, automação e consultoria técnica.*
+
+</details>
+
+<br>
+
+<div align="center">
+
+*Open to opportunities in full-stack development, automation, and technical consulting.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a73e8&height=120&section=footer" width="100%" />
