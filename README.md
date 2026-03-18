@@ -34,7 +34,7 @@ I also work as a technical consultant for a healthcare clinic, where I apply pro
 
 **Frontend** &nbsp;&nbsp;|&nbsp;&nbsp; **Backend** &nbsp;&nbsp;|&nbsp;&nbsp; **Tools**
 
-<img src="https://skillicons.dev/icons?i=react,vue,ts,tailwind,vite,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vue,ts,tailwind,vite,nodejs&theme=dark" /><br>
 <img src="https://skillicons.dev/icons?i=express,vercel,python,figma,git,vscode&theme=dark" />
 
 <section style="justify-items: left;">
