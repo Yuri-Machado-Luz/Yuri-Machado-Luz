@@ -30,12 +30,18 @@ I also work as a technical consultant for a healthcare clinic, where I apply pro
 
 ## Tech Stack
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; gap: 1rem;">
 
 **Frontend** &nbsp;&nbsp;|&nbsp;&nbsp; **Backend** &nbsp;&nbsp;|&nbsp;&nbsp; **Tools**
 
-<img src="https://skillicons.dev/icons?i=react,vue,ts,tailwind,vite,nodejs,express,python,figma,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vue,ts,tailwind,vite,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=express,vercel,python,figma,git,vscode&theme=dark" />
 
+<section style="justify-items: left;">
+
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2-orange.svg?logo=autohotkey)
+
+</section>
 </div>
 
 <br>
@@ -48,12 +54,19 @@ I also work as a technical consultant for a healthcare clinic, where I apply pro
 
 <br>
 
+## Featured Projects
+
+| Project                                                                                                                                                           | Description                                                      | Tech           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------- |
+| ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2-orange.svg?logo=autohotkey) [**yuma-autohotkeys**](https://github.com/Yuri-Machado-Luz/yuma-autohotkeys) | Modular AutoHotkey scripts for Windows automation & productivity | AutoHotkey 2.0 |
+
+<br>
+
 ---
 
 <br>
 <details>
 <summary align="center"><strong>Versão em Português</strong></summary>
-
 
 ## Sobre
 
@@ -65,12 +78,18 @@ Também atuo como consultor técnico para uma clínica de estética, aplicando d
 
 ## Stack
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; gap: 1rem;">
 
-**Frontend** &nbsp;&nbsp;|&nbsp;&nbsp; **Backend** &nbsp;&nbsp;|&nbsp;&nbsp; **Ferramentas**
+**Frontend** &nbsp;&nbsp;|&nbsp;&nbsp; **Backend** &nbsp;&nbsp;|&nbsp;&nbsp; **Tools**
 
-<img src="https://skillicons.dev/icons?i=react,vue,ts,tailwind,vite,nodejs,express,python,figma,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vue,ts,tailwind,vite,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=express,vercel,python,figma,git,vscode&theme=dark" />
 
+<section style="justify-items: left;">
+
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2-orange.svg?logo=autohotkey)
+
+</section>
 </div>
 
 <br>
@@ -81,6 +100,16 @@ Também atuo como consultor técnico para uma clínica de estética, aplicando d
 - Construindo [yurimachado.dev.br](https://yurimachado.dev.br) — portfólio pessoal como plataforma multi-projeto
 - Desenvolvendo uma knowledge base pessoal para configs, patterns e workflows
 
+<br>
+
+## Projetos em Destaque
+
+| Projeto                                                                                                                                                           | Descrição                                                              | Tech           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------- |
+| ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2-orange.svg?logo=autohotkey) [**yuma-autohotkeys**](https://github.com/Yuri-Machado-Luz/yuma-autohotkeys) | Scripts modulares AutoHotkey para automação e produtividade no Windows | AutoHotkey 2.0 |
+
+<br>
+
 </details>
 
 <br>
@@ -90,7 +119,7 @@ Também atuo como consultor técnico para uma clínica de estética, aplicando d
 <br>
 <div align="center">
 
-*Open to opportunities in full-stack development and technical consulting.*
+_Open to opportunities in full-stack development and technical consulting._
 
 </div>
 
